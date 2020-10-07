@@ -51,7 +51,7 @@ We have a community chat at `Gitter <https://gitter.im/PSSpred/community#>`_. Fe
      <img border="0"  src="https://zhanglab.ccmb.med.umich.edu/COVID-19/QHD43415_1.png" width="300">
    </div>
 
-Green Styrene Manufacturing Plant Proposal
+`Green Styrene Manufacturing Plant Proposal <https://github.com/nickcafferry/Advanced-Design-Project-Green-Styrene-Manufacturing-Plant-Proposal>`_
 ====================================================================
 
 |Documentation Status| |MIT License| |Mathematica| |Wolfram Cloud| |Software|
