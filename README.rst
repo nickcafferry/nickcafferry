@@ -94,7 +94,7 @@ About GSM
 
 As a trans-national chemical contracting company operating in a complex and ever-changing world, **GSM chemical co.** is committed to adhering to the highest of global standards of performance ethical corporate conduct.
 
-For more details, please visit `GSM. <https://github.com/nickcafferry/Advanced-Design-Project-Green-Styrene-Manufacturing-Plant-Proposal/tree/master/GSM>`_.
+For more details, please visit `the documentation <https://advanced-design-project-plant-proposal.readthedocs.io/en/latest/?badge=latest>`_.
 
 .. raw:: html
    
