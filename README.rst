@@ -121,7 +121,7 @@ Python-videos-for-beginners
 .. |codecov1| image:: https://codecov.io/gh/nickcafferry/Python-videos-for-beginners/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/nickcafferry/Python-videos-for-beginners
 
-This repository is used to give readers some videos of Python. You can find the latest `documentation <https://python-videos-for-beginners.readthedocs.io/en/latest/?badge=latest>`_ here and try to run your first code on _`python online<https://python-videos-for-beginners.readthedocs.io/en/latest/pyonlineindex.html>`_.
+This repository is used to give readers some videos of Python. You can find the latest `documentation <https://python-videos-for-beginners.readthedocs.io/en/latest/?badge=latest>`_ here and try to run your first code on `python online <https://python-videos-for-beginners.readthedocs.io/en/latest/pyonlineindex.html>`_.
 
 .. raw:: html
    
