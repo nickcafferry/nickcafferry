@@ -51,6 +51,7 @@ We have a community chat at `Gitter <https://gitter.im/PSSpred/community#>`_. Fe
      <img border="0"  src="https://zhanglab.ccmb.med.umich.edu/COVID-19/QHD43415_1.png" width="300">
    </div>
 
+
 `Green Styrene Manufacturing Plant Proposal <https://github.com/nickcafferry/Advanced-Design-Project-Green-Styrene-Manufacturing-Plant-Proposal>`_
 ====================================================================
 
@@ -129,14 +130,4 @@ This repository is used to give readers some videos of Python. You can find the 
      <img border="0"  src="https://python-videos-for-beginners.readthedocs.io/en/latest/_static/GCC.png" width="600">
    </div>
 
-Overview
-----
 
-.. |CodeScene System Mastery| image:: https://codescene.io/projects/9344/status-badges/system-mastery
-   :target: https://codescene.io/projects/9344
-.. |CodeScene Code Health| image:: https://codescene.io/projects/9344/status-badges/code-health
-   :target: https://codescene.io/projects/9344
-
-These threes series on Channel 9 and YouTube are designed to help get you up to speed on Python. If you're a beginning developer looking to add Python to your quiver of languages, or trying to get started on a data science or web project which uses Python, these videos are here to help show you the foundations necessary to walk through a tutorial or other quick start.
-
-We do assume you are familiar with another programming language, and some core programming concepts. For example, we highlight the syntax for boolean expressions and creating classes, but we don't dig into what a `boolean <https://en.wikipedia.org/wiki/Boolean_data_type>`_ is or `object oriented design <https://en.wikipedia.org/wiki/Object-oriented_design>`_. We show you how to perform the tasks you're familiar with in other languages in Python.
