@@ -104,7 +104,7 @@ For more details, please visit `the documentation <https://advanced-design-proje
 Python-videos-for-beginners
 ====================================================================
 
-|Build Status1| |GitHub license1| |Documentation Status1| |Python Online1| |deploy1| |Gitter1| |codecov1| |CodeScene System Mastery| |CodeScene Code Health|
+|Build Status1| |GitHub license1| |Documentation Status1| |Python Online1| |deploy1| |Gitter1| |codecov1| 
 
 
 .. |Build Status1| image:: https://travis-ci.com/nickcafferry/Python-videos-for-beginners.svg?branch=master
@@ -132,6 +132,7 @@ This repository is used to give readers some videos of Python. You can find the 
 
 Overview
 ----
+
 
 .. |CodeScene System Mastery| image:: https://codescene.io/projects/9344/status-badges/system-mastery
    :target: https://codescene.io/projects/9344
