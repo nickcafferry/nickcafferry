@@ -100,27 +100,40 @@ For more details, please visit `the documentation <https://advanced-design-proje
    
    <iframe class="pubchem-widget" src="https://pubchem.ncbi.nlm.nih.gov/periodic-table/#view=game&embed=true" style="border: 0; width: 100%; height: 700px;"></iframe>
 
-# Python-videos-for-beginners
-[![Build Status](https://travis-ci.com/nickcafferry/Python-videos-for-beginners.svg?branch=master)](https://travis-ci.com/nickcafferry/Python-videos-for-beginners)
-[![GitHub license](https://img.shields.io/github/license/nickcafferry/Python-videos-for-beginners)](https://github.com/nickcafferry/Python-videos-for-beginners/blob/master/LICENSE)
-[![Documentation Status](https://readthedocs.org/projects/python-videos-for-beginners/badge/?version=latest)](https://python-videos-for-beginners.readthedocs.io/en/latest/?badge=latest)
-[![Python Online](https://img.shields.io/badge/platform-python%20online-blue)](https://python-videos-for-beginners.readthedocs.io/en/latest/pyonlineindex.html)
-![deploy](https://github.com/nickcafferry/Python-videos-for-beginners/workflows/deploy/badge.svg)
-[![Gitter](https://badges.gitter.im/python-4-beginners/community.svg)](https://gitter.im/python-4-beginners/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![codecov](https://codecov.io/gh/nickcafferry/Python-videos-for-beginners/branch/master/graph/badge.svg)](https://codecov.io/gh/nickcafferry/Python-videos-for-beginners)
+Python-videos-for-beginners
+====================================================================
+
+|Build Status1| |GitHub license1| |Documentation Status1| |Python Online1| |deploy1| |Gitter1| |codecov1|
 
 
-This repository is used to give readers some videos of Python. You can find the latest [documentation](https://python-videos-for-beginners.readthedocs.io/en/latest/?badge=latest) here and try to run your first code on [python online](https://python-videos-for-beginners.readthedocs.io/en/latest/pyonlineindex.html).
+.. |Build Status1| image:: https://travis-ci.com/nickcafferry/Python-videos-for-beginners.svg?branch=master
+   :target: https://travis-ci.com/nickcafferry/Python-videos-for-beginners)
+.. |GitHub license1| image:: https://img.shields.io/github/license/nickcafferry/Python-videos-for-beginners
+   :target: https://github.com/nickcafferry/Python-videos-for-beginners/blob/master/LICENSE
+.. |Documentation Status1| image:: https://readthedocs.org/projects/python-videos-for-beginners/badge/?version=latest
+   :target: https://python-videos-for-beginners.readthedocs.io/en/latest/?badge=latest
+.. |Python Online1| image:: https://img.shields.io/badge/platform-python%20online-blue
+   :target: https://python-videos-for-beginners.readthedocs.io/en/latest/pyonlineindex.html
+.. |deploy1| image:: https://github.com/nickcafferry/Python-videos-for-beginners/workflows/deploy/badge.svg
+   :target: https://github.com/nickcafferry/Python-videos-for-beginners/workflows/deploy
+.. |Gitter1| image:: https://badges.gitter.im/python-4-beginners/community.svg
+   :target: https://gitter.im/python-4-beginners/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+.. |codecov1| image:: https://codecov.io/gh/nickcafferry/Python-videos-for-beginners/branch/master/graph/badge.svg
+   :target: https://codecov.io/gh/nickcafferry/Python-videos-for-beginners
+
+This repository is used to give readers some videos of Python. You can find the latest _`documentation<https://python-videos-for-beginners.readthedocs.io/en/latest/?badge=latest>`_ here and try to run your first code on _'python online<https://python-videos-for-beginners.readthedocs.io/en/latest/pyonlineindex.html>'_.
 
 <div align="center">
   <img border="0"  src="https://python-videos-for-beginners.readthedocs.io/en/latest/_static/GCC.png" width="600">
 </div>
 
 ## Overview
-[![CodeScene System Mastery](https://codescene.io/projects/9344/status-badges/system-mastery)](https://codescene.io/projects/9344)
-[![CodeScene Code Health](https://codescene.io/projects/9344/status-badges/code-health)](https://codescene.io/projects/9344)
 
+.. |CodeScene System Mastery| image:: https://codescene.io/projects/9344/status-badges/system-mastery
+   :target: https://codescene.io/projects/9344
+.. |CodeScene Code Health| image:: https://codescene.io/projects/9344/status-badges/code-health
+   :target: https://codescene.io/projects/9344
 
 These threes series on Channel 9 and YouTube are designed to help get you up to speed on Python. If you're a beginning developer looking to add Python to your quiver of languages, or trying to get started on a data science or web project which uses Python, these videos are here to help show you the foundations necessary to walk through a tutorial or other quick start.
 
-We do assume you are familiar with another programming language, and some core programming concepts. For example, we highlight the syntax for boolean expressions and creating classes, but we don't dig into what a [boolean](https://en.wikipedia.org/wiki/Boolean_data_type) is or [object oriented design](https://en.wikipedia.org/wiki/Object-oriented_design). We show you how to perform the tasks you're familiar with in other languages in Python.
+We do assume you are familiar with another programming language, and some core programming concepts. For example, we highlight the syntax for boolean expressions and creating classes, but we don't dig into what a _`boolean <https://en.wikipedia.org/wiki/Boolean_data_type>`_ is or `object oriented design <https://en.wikipedia.org/wiki/Object-oriented_design>`_. We show you how to perform the tasks you're familiar with in other languages in Python.
