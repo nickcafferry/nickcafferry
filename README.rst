@@ -25,8 +25,8 @@
    :target: https://circleci.com/gh/nickcafferry/PSSpred
 
 .. |Documentation Status1| image:: https://readthedocs.org/projects/psspred/badge/?version=latest
-   :target: https://psspred.readthedocs.io/en/latest/?badge=latest
-
+   :target: https://psspred.readthedocs.io/en/latest/README.html?badge=latest
+   
 Copyright |copy| Wei MEI, |MLMS (TM)| |---|
 all rights reserved. 
 |bamboo|
