@@ -1,7 +1,7 @@
 `PSSpred <https://github.com/nickcafferry/PSSpred>`_
 ===============
 
-|Workflow| |Licence| |Travis| |Codecov| |Appveyor| |Gitter| |Documentation Status| |Circleci|
+|Workflow| |Licence| |Travis| |Codecov| |Appveyor| |Gitter| |Documentation Status0| |Circleci|
 
 .. |Workflow| image:: https://github.com/nickcafferry/PSSpred/workflows/PSSpred/badge.svg
    :target: https://github.com/nickcafferry/PSSpred/actions/runs/263139727
@@ -24,7 +24,7 @@
 .. |Circleci| image:: https://circleci.com/gh/nickcafferry/PSSpred.svg?style=svg
    :target: https://circleci.com/gh/nickcafferry/PSSpred
 
-.. |Documentation Status| image:: https://readthedocs.org/projects/psspred/badge/?version=latest
+.. |Documentation Status0| image:: https://readthedocs.org/projects/psspred/badge/?version=latest
    :target: https://psspred.readthedocs.io/en/latest/README.html?badge=latest
    
 Copyright |copy| Wei MEI, |MLMS (TM)| |---|
