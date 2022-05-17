@@ -127,7 +127,7 @@ This repository is used to give readers some videos of Python. You can find the 
 .. raw:: html
    
    <div align="center">
-     <img border="0"  src="https://python-videos-for-beginners.readthedocs.io/en/latest/_static/GCC.png" width="600">
+     <img border="0"  src="https://python-videos-for-beginners.readthedocs.io/en/latest/_static/GCC.png" width="600"><target="https://space.bilibili.com/506814379">
    </div>
 
 Overview
